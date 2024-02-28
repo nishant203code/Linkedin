@@ -1,2 +1,3 @@
 # Linkedin
-Course code repo
+Course Code repo in C.
+Author- Nishant Porwal.
